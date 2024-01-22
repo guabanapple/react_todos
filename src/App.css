@@ -1,0 +1,25 @@
+@charset 'utf-8';
+
+body {
+  margin: 0;
+}
+
+.container {
+  width: 400px;
+  margin: 16px auto;
+}
+
+h1 {
+  margin: 16px 0 0 0;
+  font-size: 24px;
+}
+
+.todoList {
+  margin: 0;
+  list-style: none;
+  padding: 0px;
+}
+
+.todoList > li {
+  margin-top: 16px;
+}
